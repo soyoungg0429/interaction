@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #eee;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.outer {
+  width: 600px;
+  height: 600px;
+  background-color: purple;
+  margin: 0 auto;
+  font-size: 0;
+}
+
+.rectangle {
+  background-color: maroon;
+  width: 200px;
+  height: 400px;
+}
+
+.two {
+  margin-left: 200px;
+  margin-top: -300px;
+}
+
+.three {
+  margin-left: 400px;
+  margin-top: -300px;
+}
