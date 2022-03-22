@@ -1,0 +1,65 @@
+body {
+	font-family: monospace;
+	padding: 40px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+color: white;
+}
+
+a:active {
+	color: white;
+}
+
+section,
+figure {
+	margin-top: 80px;
+	max-width: 600px;
+}
+
+#channel-title
+{
+font-family: "helvetica", serif;
+font-weight: bold;
+text-align: left;
+font-size: 4em;
+color: black;
+}
+
+#channel-description
+{
+	color: blue;
+	font-family: "helvetica", serif;
+	font-size: 0.5em;
+	margin-top: -10px;
+}
+
+#header
+{
+margin-top: 10px;
+font-family: monospace;
+flex-basis: 2;
+font-size: 1em;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: flex-start;
+}
+
+#header-items
+{
+
+}
+
+#channel-description > *,
+figure > *:not(:first-child),
+.description > *:not(:first-child),
+.content > *:not(:first-child) {
+	display: block;
+	margin-top: 1em;
+}
