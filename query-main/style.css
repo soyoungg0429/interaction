@@ -1,0 +1,245 @@
+* {
+}
+
+/* a {
+  text-align: left;
+  font-family: arial;} */
+
+a:hover {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Open Sans', serif;
+  line-height: 1em;
+margin-left: -20px;
+margin-top: 10px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: lighter;
+  line-height: 1.2em;
+  margin-top: -10px;
+  font-style: italic;
+  margin-left: -20px;
+  margin-bottom: -5px;
+}
+
+#image1 {
+margin-top: -116px;
+margin-left: 1490px;
+}
+
+#image2 {
+margin-top: -126px;
+margin-left: 1340px;
+}
+
+.header1 {
+  /* font-size: 80; */
+  /* margin-top: 40px;
+  margin-left: 60px; */
+  /* margin-right: 1200px; */
+  padding-left: 65px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: left;
+  font-weight: bold;
+  font-family: 'Open Sans', serif;
+  color: black;
+  position: relative;
+  white-space: nowrap;
+  background-color: yellow;
+  border-style: dashed;
+  min-width: 1080px;
+}
+
+
+.description {
+  font-family: 'Open Sans', serif;
+  font-size: 14;
+  margin-left: 65px;
+  margin-top: 40px;
+  color: black;
+  white-space: nowrap;
+  min-width: 480px;
+}
+
+.main {
+    border-style: dashed;
+      margin-top: 8px;
+      white-space: nowrap;
+      height: 96px;
+      min-width: 1080px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+
+}
+
+#birth {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 20px;
+  padding-left: 44px;
+  padding-right: 24px;
+}
+
+#birth:hover {
+  color: blue;
+}
+
+#birth a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+#birth a:hover {
+  color: blue;
+}
+
+/* #youth1 {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 64px;
+  margin-top: 40px;
+  padding-left: 88px;
+}
+
+#youth1:hover {
+  color: blue;
+}
+
+#youth1 a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 20px;
+  margin-left: 10px;
+} */
+
+/* #youth2 {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 64px;
+  margin-top: 40px;
+  padding-left: 88px;
+  color: black;
+}
+
+#youth2:hover {
+  color: blue;
+}
+
+#youth2 a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 20px;
+  margin-left: 10px;
+} */
+
+#similarity {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 20px;
+  padding-left: 44px;
+  color: black;
+  padding-right: 24px;
+}
+
+#similarity:hover {
+  color: blue;
+}
+
+#similarity a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+#similarity a:hover {
+  color: blue;
+}
+
+#opposites {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 20px;
+  padding-left: 44px;
+  padding-right: 24px;
+}
+
+#opposites:hover {
+  color: blue;
+}
+
+#opposites a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+#opposites a:hover {
+  color: blue;
+}
+
+#present {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 20px;
+  padding-left: 44px;
+  padding-right: 24px;
+}
+
+#present:hover {
+  color: blue;
+}
+
+#present a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+#present a:hover {
+  color: blue;
+}
+
+#separation {
+  font-family: 'Love Ya Like A Sister', serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 20px;
+  padding-left: 44px;
+  margin-bottom: 100px;
+  padding-right: 16px;
+}
+
+#separation:hover {
+  color: blue;
+}
+
+#separation a{
+  font-family: 'Love Ya Like A Sister', serif;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 16px;
+}
+
+#separation a:hover {
+  color: blue;
+}
